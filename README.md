@@ -1,1 +1,1 @@
-# Rekry_koulu
+# Haaga-Helia's Hackatons 
